@@ -1,6 +1,5 @@
 Class Algorithms
-
-====
+=====
 
 Simple algorithms written for Data Structures and Algorithms II and Artificial Intelligence classes at Amherst College.
 
