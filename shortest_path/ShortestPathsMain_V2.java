@@ -10,6 +10,7 @@ import java.util.Scanner;
  * vertices in the same cell or between a non-corner vertex in a cell and one of the corner vertices of
  * the same cell."
  *
+ * THIS WAS THE ATTEMPT AT A V-SQUARED SOLUTION, NOT CURRENTLY FINISHED. 
  */
 
 public class ShortestPathsMainV2
