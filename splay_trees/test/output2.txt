@@ -1,0 +1,10 @@
+0 added 15 20
+1 added 10 12
+1 not added 17 18
+0 truncated 15 20
+2 not found 1 2
+1 added 1 2
+0 [1, 2]
+1 [10, 12]
+2 [16, 20]
+
